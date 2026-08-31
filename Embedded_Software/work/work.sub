@@ -1,0 +1,6 @@
+-I=main.obj
+-I=resetprg.obj
+-STAR=SI/00000004,P/0FFC00000,C$VECT/0FFC00100,RESETVECT/0FFFFFFFC
+;	-DEB
+-FO=S
+-OU=main.mot

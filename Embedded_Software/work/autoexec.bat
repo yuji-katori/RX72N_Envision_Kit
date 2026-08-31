@@ -1,0 +1,1 @@
+SET PATH=C:\Program Files (x86)\Renesas Electronics\CS+\CC\CC-RX\V3.08.00\bin;%PATH%
